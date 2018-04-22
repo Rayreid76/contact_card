@@ -1,0 +1,37 @@
+*{
+    width: 960px;
+    margin: 0px;
+    background-color: beige;
+}
+div{
+    display: inline-block;
+    vertical-align: top;
+    background-color: beige;
+    width: 470px;
+    
+
+}
+form{
+    width: 480px;
+}
+input{
+    width: 280px;
+    background-color: white;
+    
+}
+.discription{
+    width: 280px;
+    height: 90px;
+    background-color: white;
+    
+}
+button{
+    width: 180px;
+    background-color: white;
+    
+}
+textarea{
+    width: 280px;
+    height: 90px;
+    background-color: white;
+}
